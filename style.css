@@ -1,0 +1,21 @@
+/* reset margin, padding */
+body{
+    margin : 0 !important;
+    padding: 0 !important;
+}
+.red{
+    border: 1px solid red;
+}
+.green{
+    border: 1px solid green;
+}
+.banner{
+    /* border: 1px solid red; */
+    height: 500px;
+    width: 500px;
+    background-image: url('./banner.jpeg') center center no-repeat;
+}
+.about-sign-in{
+    height: 80px;
+    width: 100%;
+}
